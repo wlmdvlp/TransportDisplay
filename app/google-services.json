@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "766674418285",
+    "firebase_url": "https://bookbuysell-925b5.firebaseio.com",
+    "project_id": "bookbuysell-925b5",
+    "storage_bucket": "bookbuysell-925b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766674418285:android:ae945e8c001d6349",
+        "android_client_info": {
+          "package_name": "com.wakim.realtimeassettracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766674418285-k09pisvl1t0kiilv2o26kcnuruhmpoaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wakim.realtimeassettracking",
+            "certificate_hash": "3775fd07011ce53ee712c930be1f3a2d7809725c"
+          }
+        },
+        {
+          "client_id": "766674418285-141vi42tul1k25m6tm8nf374kkdja85s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "766674418285-141vi42tul1k25m6tm8nf374kkdja85s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ-rttZYbMOAjfHQAmTcaLlz882pZK-iU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766674418285-141vi42tul1k25m6tm8nf374kkdja85s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766674418285:android:dce387873ac74927",
+        "android_client_info": {
+          "package_name": "com.wakim.transportdisplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766674418285-1fgfatktcq9m1rs6segdk4dktj0sduhf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wakim.transportdisplay",
+            "certificate_hash": "3775fd07011ce53ee712c930be1f3a2d7809725c"
+          }
+        },
+        {
+          "client_id": "766674418285-141vi42tul1k25m6tm8nf374kkdja85s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "766674418285-141vi42tul1k25m6tm8nf374kkdja85s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ-rttZYbMOAjfHQAmTcaLlz882pZK-iU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766674418285-141vi42tul1k25m6tm8nf374kkdja85s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
